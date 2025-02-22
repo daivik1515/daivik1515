@@ -2,12 +2,6 @@
 
 I’m a passionate software developer who enjoys building efficient, scalable applications. 💻
 
-🌱 What I’m Learning:
-
-	•	AWS : Expanding my knowledge in cloud services and infrastructure.
- 
-	•	Data Structures & Algorithms 🧠: Strengthening my problem-solving skills by diving deeper into DSA.
- 
 📫 How to Reach Me:
 
 	•	LinkedIn 🌐 : www.linkedin.com/in/daiviksaharan
